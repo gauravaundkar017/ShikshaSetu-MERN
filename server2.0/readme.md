@@ -1,0 +1,1 @@
+npm i express mongoose express dotenv jsonwebtoken cors bcryptjs nodemon multer nodemailer morgan cloudinary cookie-parser --save
